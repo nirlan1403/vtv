@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTPHD">
+    <display-name lang="pt">RTPHD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 1 HD">
+    <display-name lang="pt">Sport TV 1 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven 1">
+    <display-name lang="pt">Eleven 1</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Top HD">
+    <display-name lang="pt">TVCine Top HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+</tv>
